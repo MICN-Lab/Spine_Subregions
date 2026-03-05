@@ -14,7 +14,7 @@ This repository provides a trained nnU-Net model for semantic segmentation of se
 
 Rather than segmenting the vertebrae as a single structure, this model differentiates between seven anatomically distinct subregions per vertebral level, enabling more granular analysis for surgical planning, radiomic feature extraction, and patient education.
 
-![Exemplary 3D reconstructions of predicted segmentation masks from lumbar (A-B) and thoracolumbar (C-D) CT scans. Colors represent different anatomical subregions.](Figure_1.jpg)
+![Exemplary 3D reconstructions of predicted segmentation masks from lumbar (A-B) and thoracolumbar (C-D) CT scans. Colors represent different anatomical subregions.](Figure 1.jpg)
 
 **Segmented subregions:**
 - Vertebral body corpus
