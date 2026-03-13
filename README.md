@@ -4,7 +4,7 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![nnU-Net](https://img.shields.io/badge/framework-nnU--Net-orange.svg)](https://github.com/MIC-DKFZ/nnUNet)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ---
 
@@ -137,14 +137,6 @@ Key training parameters:
 - GPU: NVIDIA A6000 (48 GB VRAM)
 
 ---
-
-
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
