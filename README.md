@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository provides a trained nnU-Net model for semantic segmentation of seven anatomical subregions of the vertebral column on thoracolumbar CT scans. The model was developed at the [Machine Intelligence in Clinical Neuroscience (MICN) Laboratory](https://www.micn-lab.com), University Hospital Zurich.
+This repository provides a trained nnU-Net model for semantic segmentation of seven anatomical subregions of the vertebral column on thoracolumbar CT scans. The model was developed at the [ MICN Laboratory](https://www.micnlab.com), University Hospital Zurich.
 
 Rather than segmenting the vertebrae as a single structure, this model differentiates between seven anatomically distinct subregions per vertebral level, enabling more granular analysis for surgical planning, radiomic feature extraction, and patient education.
 
