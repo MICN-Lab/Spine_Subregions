@@ -138,6 +138,14 @@ Key training parameters:
 
 ---
 
+
+---
+
+## Citation
+
+The full paper is currently under review.
+
+
 ---
 
 ## Contact
