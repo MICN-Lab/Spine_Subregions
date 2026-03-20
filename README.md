@@ -17,7 +17,7 @@ Rather than segmenting the vertebrae as a single structure, this model different
 ![Exemplary 3D reconstructions of predicted segmentation masks from lumbar (A-B) and thoracolumbar (C-D) CT scans. Colors represent different anatomical subregions.](Figure_1.jpg)
 
 **Segmented subregions:**
-- Vertebral body corpus
+- Vertebral body
 - Pedicles
 - Lamina
 - Spinous process
@@ -33,7 +33,7 @@ Evaluated on a held-out test set of 23 thoracolumbar CT scans (Dice score, mean 
 
 | Structure | Dice Score |
 |---|---|
-| Vertebral body corpus | 0.982 ± 0.011 |
+| Vertebral body | 0.982 ± 0.011 |
 | Pedicles | 0.942 ± 0.029 |
 | Lamina | 0.951 ± 0.024 |
 | Spinous process | 0.943 ± 0.028 |
@@ -100,7 +100,7 @@ Output segmentation masks use the following label convention:
 | Label | Structure |
 |---|---|
 | 0 | Background |
-| 1 | Vertebral body corpus |
+| 1 | Vertebral body |
 | 2 | Pedicles |
 | 3 | Lamina |
 | 4 | Spinous process |
