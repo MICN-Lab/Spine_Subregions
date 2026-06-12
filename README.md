@@ -1,4 +1,6 @@
-# Spine_Subregions
+
+---
+ # Spine_Subregions
 
 **Fully automated segmentation of anatomical subregions of the thoracolumbar spine on CT using nnU-Net.**
 
@@ -138,8 +140,56 @@ Key training parameters:
 
 ---
 
+## Graphical User Interface (Windows)
 
----
+For users who prefer a graphical workflow, a standalone Windows application is available here.
+
+<img width="943" height="633" alt="Bildschirmfoto 2026-06-12 um 11 58 10" src="https://github.com/user-attachments/assets/eae496e9-c898-4426-b037-740b7876bbbf" />
+
+
+### Features
+
+- Fully automated thoracolumbar spine subregion segmentation
+- No Python or nnU-Net installation required
+- Interactive graphical user interface
+- Batch processing of CT scans
+- Export of segmentation masks in NIfTI format
+- Bundled pretrained nnU-Net model weights
+
+### Download
+
+Download the latest release from the GitHub Releases page or via the mirror link:
+
+https://owncloud.damutten.ch/s/IT4sGMut26Ktafp
+
+### Included Files
+
+The release package contains:
+
+- SpineSegmentation.exe
+- Bundled runtime dependencies (_internal)
+- Spine directory containing:
+  - pretrained nnU-Net model weights
+  - application resources and logos
+  - inference pipeline code
+
+### Usage
+
+1. Download and extract the release archive.
+2. Ensure that the Spine folder remains in the same directory as SpineSegmentation.exe.
+3. Launch SpineSegmentation.exe.
+4. Select a thoracolumbar CT scan in NIfTI format (.nii or .nii.gz).
+5. Choose an output directory.
+6. Start segmentation.
+
+### Notes
+
+- The application has been validated on Windows systems using the bundled pretrained model.
+- No additional software installation is required.
+- GPU acceleration is recommended for optimal inference speed.
+- The GUI uses the same nnU-Net model described in this repository and produces identical segmentation outputs.
+  
+
 
 ## Citation
 
@@ -156,3 +206,6 @@ For questions or issues, please open a GitHub issue or contact the corresponding
 Machine Intelligence in Clinical Neuroscience (MICN) Laboratory
 Department of Neurosurgery, University Hospital Zurich
 raffaele.damutten@usz.ch
+
+
+
