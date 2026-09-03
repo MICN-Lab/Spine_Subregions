@@ -191,8 +191,7 @@ The release package contains:
 
 ## Citation
 
-The full paper is currently under review.
-
+Da Mutten, R., Theiler, S., Bottini, M. et al. Fully Automated Segmentation of Anatomical Subregions of the Thoracolumbar Spine on Computed Tomography. J Digit Imaging. Inform. med. (2026). https://doi.org/10.1007/s10278-026-02169-7
 
 ---
 
