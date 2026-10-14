@@ -191,7 +191,19 @@ The release package contains:
 
 ## Citation
 
-Da Mutten, R., Theiler, S., Bottini, M. et al. Fully Automated Segmentation of Anatomical Subregions of the Thoracolumbar Spine on Computed Tomography. J Digit Imaging. Inform. med. (2026). https://doi.org/10.1007/s10278-026-02169-7
+If you use this model or software, please cite:
+
+Da Mutten R, Theiler S, Bottini M, de Wilde D, Zanier O, Maldaner N, Voglis S, El-Hajj VG, Elmi-Terander A, van Doormaal TPC, Germans MR, Bellut D, Regli L, Serra C, Staartjes VE. Fully Automated Segmentation of Anatomical Subregions of the Thoracolumbar Spine on Computed Tomography. *Journal of Imaging Informatics in Medicine*. 2026. https://doi.org/10.1007/s10278-026-02169-7
+
+```bibtex
+@article{DaMutten2026SpineSubregions,
+  author  = {Da Mutten, Raffaele and Theiler, Sven and Bottini, Massimo and de Wilde, Daniel and Zanier, Olivier and Maldaner, Nicolai and Voglis, Stefanos and El-Hajj, Victor Gabriel and Elmi-Terander, Adrian and van Doormaal, Tristan P. C. and Germans, Menno R. and Bellut, David and Regli, Luca and Serra, Carlo and Staartjes, Victor E.},
+  title   = {Fully Automated Segmentation of Anatomical Subregions of the Thoracolumbar Spine on Computed Tomography},
+  journal = {Journal of Imaging Informatics in Medicine},
+  year    = {2026},
+  doi     = {10.1007/s10278-026-02169-7}
+}
+```
 
 ---
 
