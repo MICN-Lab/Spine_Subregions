@@ -36,15 +36,6 @@ In consideration of the above premises LICENSEE agrees as follows:
 
 Title, ownership rights, and intellectual property rights in and to the SOFTWARE shall remain with UZH.
 
-5. Citation
-
-The LICENSEE expressly acknowledges and agrees to reference the publications:
-
-Da Mutten R, Zanier O, Ciobanu-Caraus O, Voglis S, Hugelshofer M, Pangalu A, Regli L, Serra C, Staartjes VE (2024) Automated volumetric assessment of pituitary adenoma. Endocrine 83:171-177. https://doi.org/10.1007/s12020-023-03529-x
-
-Da Mutten R, Zanier O, Regli L, Serra C, Staartjes V, Ventricular Volume and Width Quantification using Deep Convolutional Networks Incorporated in a Graphical User Interface, Brain and Spine, https://doi.org/10.1016/j.bas.2023.102289.
-
-and to and the University of Zurich as the source of the SOFTWARE in any publications reporting use of it or any manual or document. A copy of all reports and papers that are for public or general release that use the SOFTWARE must be forwarded immediately upon release or publication to the Principal Investigator.
 
 6. Term and Termination
 
