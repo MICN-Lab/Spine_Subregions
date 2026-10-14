@@ -1,6 +1,6 @@
 License for Academic Non-commercial Use
 
-This is a legal agreement (hereinafter referred to as the AGREEMENT) between you (hereinafter referred to as the LICENSEE) and the University of Zurich, Rämistrasse 71, CH-8006 Zürich (hereinafter referred to as UZH) pertaining to the right to use the software product "Zurich Neurosurgical Toolkit" (hereinafter referred to as "SOFTWARE") for academic, non-commercial purposes only. By downloading or using the SOFTWARE you acknowledge that you have read the AGREEMENT, understand it and agree to be bound by its terms and conditions.
+This is a legal agreement (hereinafter referred to as the AGREEMENT) between you (hereinafter referred to as the LICENSEE) and the University of Zurich, Rämistrasse 71, CH-8006 Zürich (hereinafter referred to as UZH) pertaining to the right to use the software product "Spine_Subregions" (automated segmentation of anatomical subregions of the thoracolumbar spine on CT, including model weights and the graphical user interface) (hereinafter referred to as "SOFTWARE") for academic, non-commercial purposes only. By downloading or using the SOFTWARE you acknowledge that you have read the AGREEMENT, understand it and agree to be bound by its terms and conditions.
 
 LICENSE TERMS
 
