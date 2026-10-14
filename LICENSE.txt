@@ -36,6 +36,11 @@ In consideration of the above premises LICENSEE agrees as follows:
 
 Title, ownership rights, and intellectual property rights in and to the SOFTWARE shall remain with UZH.
 
+5. Citation
+
+5.1 LICENSEE agrees to cite the following publication in any publication, presentation or other scientific work that makes use of the SOFTWARE or any IMPROVEMENTS, or of results obtained with them:
+
+Da Mutten R, Theiler S, Bottini M, de Wilde D, Zanier O, Maldaner N, Voglis S, El-Hajj VG, Elmi-Terander A, van Doormaal TPC, Germans MR, Bellut D, Regli L, Serra C, Staartjes VE. Fully Automated Segmentation of Anatomical Subregions of the Thoracolumbar Spine on Computed Tomography. Journal of Imaging Informatics in Medicine. 2026. https://doi.org/10.1007/s10278-026-02169-7
 
 6. Term and Termination
 
